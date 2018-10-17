@@ -9,7 +9,7 @@ import Index from "./js/screens/index";
 import Login from "./js/screens/login";
 import Dashboard from "./js/screens/admin/dashboard";
 
-import config from "./config.js";
+import config from "./firebaseConfig.js";
 
 class App extends Component {
   componentWillMount() {
